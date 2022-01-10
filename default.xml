@@ -28,6 +28,10 @@
            fetch=".."
            review="gerrit.aospa.co"
            revision="sapphire"/>
+  
+  <remote  name="gms"
+           fetch="https://github.com/HimanishM25"
+           revision="sapphire" />
 
   <remote  name="blobs"
            fetch="https://github.com/ThankYouMario"
