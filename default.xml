@@ -29,10 +29,6 @@
            review="gerrit.aospa.co"
            revision="sapphire"/>
 
-  <remote  name="bitbucket"
-           fetch="https://bitbucket.org"
-           revision="sapphire" />
-
   <remote  name="blobs"
            fetch="https://github.com/ThankYouMario"
            revision="sapphire" />
